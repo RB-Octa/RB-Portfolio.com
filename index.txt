@@ -1,4 +1,4 @@
-Kane Williams - Web & App Developer
+Riboy Octa - Front-End Developer & UI/UX Designer
 
 This is a personal portfolio html template made by codewithsadee
 
@@ -21,12 +21,12 @@ Contact
 
 #---------- HERO ----------#
 
-Kane Williams
+Rb Gonzales Octa
 Creative Web & App Developer
 
-alt = kane williams
+alt = Riboy Octa
 
-Hi, I’m kane williams and I am creative web & app developer who dream making the world better place by creating captivating products.
+Hi, I’m Riboy Octa and I am creative web & app developer who dream making the world better place by creating captivating products.
 
 Download CV
 <ion-icon name="download-outline" aria-hidden="true"></ion-icon>

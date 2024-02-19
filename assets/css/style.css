@@ -609,7 +609,7 @@ section { padding-block: var(--section-padding); }
 }
 
 .service-card:is(:hover, :focus-within) {
-  background-color: var(--raisin-black);
+  background-color: var(--raw-seinna);
   --content-color: var(--white);
 }
 

@@ -238,7 +238,7 @@ section { padding-block: var(--section-padding); }
 
 .btn1 {
   max-width: max-content;
-  color: var(--white);
+  color: var(--raw-seinna);
   font-weight: 700;
   text-transform: uppercase;
   padding: 10px 25px;
@@ -260,10 +260,10 @@ section { padding-block: var(--section-padding); }
 
 .btn:is(:hover, :focus-visible)::before { left: calc(100% - 70px); }
 
-.btn-primary { border-color: var(--white); }
+.btn-primary { border-color: var(--raw-seinna); }
 
 .btn-primary:is(:hover, :focus) {
-  background: var(--white);
+  background: var(--raw-seinna);
   color: var(--raisin-black);
 }
 
@@ -609,6 +609,7 @@ section { padding-block: var(--section-padding); }
 }
 
 .service-card:is(:hover, :focus-within) {
+  /* background-color: var(--raisin-black); */
   background-color: var(--raw-seinna);
   --content-color: var(--white);
 }
@@ -903,7 +904,7 @@ textarea.input-field {
 .contact .btn-primary {
   max-width: unset;
   width: 100%;
-  background: var(--white);
+  background: var(--raw-seinna);
   color: hsl(0, 0%, 12%);
 }
 
